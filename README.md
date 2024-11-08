@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou João Vitor
+## Olá! Eu sou João Vitor 👋
 
 
 
@@ -16,17 +16,9 @@
 ## Tecnologias que uso no meu dia 
 <div style="display: inline-block;">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-<div style="display: inline-block;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-<div style="display: inline-block;">
     <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
-<div style="display: inline-block;">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
-<div style="display: inline-block;">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
