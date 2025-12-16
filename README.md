@@ -2,7 +2,7 @@
 
 
 
-### 🖥️ Desenvolvedor Backend & Designer UI/UX  
+### 🖥️ Desenvolvedor Mobile & Back-end  
  
 ### 🎓 Cursando Bacharelado em Sistemas de Informação na UFRPE
 
